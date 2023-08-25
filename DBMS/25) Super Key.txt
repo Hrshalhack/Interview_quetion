@@ -1,0 +1,13 @@
+*Super key-> it contain one attribute(column),set of attribute(columns) or null attribute(column).
+             
+(two or more column work as a super key, means column1+column4 work togather as
+ a super key,in this one column must have unique) (superkey contains extra columns) 
+
+#EXAMPLE of superkeys-> {ID} 
+                        {ssn}
+                        {ID,Name}
+                        {ID,Name,SSN,Salary}......etc(all posible combinations)
+ we can not cosider name(example) alone as a superkey.
+{Name}->it is wrong.
+
+*why use superkeys-> it used to uniquely identify the row(tuple).

@@ -1,0 +1,3 @@
+ SQL stands for Structured Query Language whose main
+ purpose is to interact with the relational databases in the form 
+of inserting and updating/modifying the data in the database.

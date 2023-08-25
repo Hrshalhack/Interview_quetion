@@ -1,0 +1,15 @@
+4 properties->
+
+1) Atomicity -> transaction ke time agr data pr operation krte time agr koi 
+                transacion fail ho jata he to hm transaction ko roll back
+                krenge mtlb ek bhi operation execute nhi honga.
+
+2)Consistency -> before transaction start and after the transaction end
+                 the sum of money of both accounts should be same.
+
+3) isolation -> multiple transactions happen independently , without 
+                interfaring with anyone. one transaction is hide for 
+                another transaction.
+
+4) Durablity ->  once the transaction done , the changes stay there always
+                if system fails. (backup of data)

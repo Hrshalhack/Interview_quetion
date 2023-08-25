@@ -1,0 +1,17 @@
+1) NoSQL databases are non-tabular databases and stores data differently than
+relational databases.
+
+2) ex- MongoDB
+ the main types of datamodels used in nosql are document,key-value,graph.
+3) for transaction use rdbms, nosql for non transactional based purely for 
+   data storing..
+4)SQL IRCTC website 
+ No SQL Instagram
+
+5) when we need ACID properties we use relational otherwise we use nosql.
+
+6) whenever we have to flexible data(instagram),we use nosql.
+7) if your data requirements arent clear or if your data is unstructured, 
+  nosql may be your best bet.
+
+

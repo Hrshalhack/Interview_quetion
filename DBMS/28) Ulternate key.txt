@@ -1,0 +1,2 @@
+*Alternate key-> the keys which are not primary key in candidate keys.
+   (see photo to understand)

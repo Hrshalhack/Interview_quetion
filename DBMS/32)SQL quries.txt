@@ -1,0 +1,62 @@
+The SQL SELECT Statement->
+The SELECT statement is used to select data from a database.
+
+The data returned is stored in a result table, called the result-set.
+
+SELECT Syntax->
+
+SELECT column1, column2, ...
+FROM table_name;
+
+Here, column1, column2, ... are the field names of the table you want to 
+select data from. If you want to select all the fields available in the table,
+use the following syntax:
+
+SELECT * FROM table_name;
+
+#example-> given table(customer), columns(customerName,City,Cid)
+
+1)SELECT CustomerName, City FROM Customers; (we select two columns here)
+
+2)SELECT * FROM Customers; (if we want to print all columns of table,we use *)
+
+3) ORDER BY city ASC; (it print city column values in ascending order)
+
+(note-> to understand where,see w3schools (SQL Where))
+4) The SQL WHERE -> The WHERE clause is used to filter records.
+
+  It is used to extract only those records that fulfill a specified condition.
+
+WHERE Syntax->
+
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;
+
+#example->The following SQL statement selects all the customers from the
+          country "Mexico", in the "Customers" table:
+
+SELECT * FROM Customers
+WHERE Country='Mexico';
+
+#example-> 
+
+SELECT student_name
+FROM student
+WHERE student_id NOT IN (4,7)    //4 or 7 id ko chod dega, baki sb select krega
+ORDER BY student_name asc;
+
+#example-> 
+
+SELECT department_name
+FROM department
+WHERE department_block_number = 3  //it display only department no.3
+ORDER BY department_name asc;
+
+#example-> 
+
+SELECT student_name
+FROM student
+WHERE SUBSTRING(student_name, 3, 1) = ‘a’ //it show students names that strats with 'a'
+ORDER BY student_name ASC;
+

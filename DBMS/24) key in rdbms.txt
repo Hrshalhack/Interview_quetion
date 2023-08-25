@@ -1,0 +1,13 @@
+*key-> it is used to uniquely identify the row(tuple).A key is also used when
+ we want to establish relationships between the different columns and tables.
+
+*types of keys-> 
+
+1)super key-> 
+2)candidate key-> 
+3)primarykey-> it has certain set of rules->1.there should be only one primary
+              key in table.
+              2.it should be unique.
+              3.it cannot be null.
+4)foregn key-> common column called foregnkey,to connect two tables.it can be null.
+  

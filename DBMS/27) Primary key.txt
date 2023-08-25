@@ -1,0 +1,9 @@
+*Primary key-> it is unique and not contains null value. 
+               it is choosen from set of candidate keys.
+  primary key = unique + not null.
+(only one primary key exist in table)
+ Examples-> {ID}(we can choose only one primary key)
+            
+(note-> Email is not primarykey because it can be null)
+primary key is choosen by DBA(database administrator)
+(the primarykey value is never change or rarely changed)

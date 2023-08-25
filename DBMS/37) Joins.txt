@@ -1,0 +1,13 @@
+Joins-> when we want two or more table data to solve the quetion, we use joins.
+ (note->dono table me koi common column(attribute) hona chaiye,tabhi join use hoga)
+
+types of joins->
+1)inner join 
+2)outer join -> three types of outer join
+               (1) LEFT join
+               (2) RIGHT join
+               (3) Full join
+
+(https://www.w3schools.com/sql/sql_join.asp)
+All joins learn from w3schools
+(note-> jo SELECT hota hai vo print hota hai)

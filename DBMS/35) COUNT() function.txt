@@ -1,0 +1,4 @@
+COUNT->
+The COUNT(uniqe_column) function returns the number of rows or records.
+Note: NULL values are not counted.
+https://www.w3schools.com/sql/func_sqlserver_count.asp

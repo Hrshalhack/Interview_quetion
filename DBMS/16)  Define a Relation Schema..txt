@@ -1,0 +1,2 @@
+ Relation schema is known as the blueprint with the help of which
+ we can explain that how the data is organized into tables.

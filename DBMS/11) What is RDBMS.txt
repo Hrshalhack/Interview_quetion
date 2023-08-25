@@ -1,0 +1,4 @@
+RDBMS ->  it is advance version of DBMS. it stores data in the form of 
+   rows(tuple) and columns(attributes). and togather a table(relation).
+it uses SQL for storing,manipulating and retrieving data.
+ex-> mysql,oracle..etc... 

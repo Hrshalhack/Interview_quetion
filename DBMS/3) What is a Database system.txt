@@ -1,0 +1,1 @@
+The database and DBMS software together is called as Database system.

@@ -1,0 +1,14 @@
+Name of project ->  FAST SALE
+
+domain -> it is under e-commerce domain.
+
+purpose -> the purpuse of my project is sell and buy the thigs online.
+
+tools & technology -> i made this project on web technology and i used vs code,bootstrap.
+
+fronted & backend -> i use html css and javascript for frontend and mysql database for backend.
+
+process -> the process i follow waterfall model.
+ 
+we get 50 out of 50 in our project.
+ 

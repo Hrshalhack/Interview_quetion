@@ -1,0 +1,8 @@
+Unique keys-> the keys which contains unique value and also support null values.
+     unique key = unique + null.
+
+
+composite key-> in candidate keys, have more than two attribute(column) thats
+                called composite key.
+
+(see photo)

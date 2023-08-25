@@ -1,0 +1,3 @@
+the foregeion key is column or set of column.
+
+that allows us to esablish connections beetween two tables

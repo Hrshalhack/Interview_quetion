@@ -1,0 +1,32 @@
+GROUP BY-> The GROUP BY statement groups rows that have the same values.
+
+ex-> table name-> student
+     name   id 
+      h      1
+      e      2
+      h      3
+      h      3
+ 
+ SELECT name FROM student GROUP BY name;
+
+output->  
+         name     
+          h  
+          e
+
+*if we count how many times names is present.
+
+SELECT COUNT(id), names
+FROM student
+GROUP BY names;
+
+output-> 
+          name   id
+            h     3    (h ki frequency ,3 bar he )
+            e     1    (e ki frequency,1 bar h)
+
+
+
+
+      
+ 

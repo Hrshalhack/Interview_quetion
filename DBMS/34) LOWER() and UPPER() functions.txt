@@ -1,0 +1,12 @@
+LOWER()-> the lower function do the all text or string in lower case characters.
+ex->  SELECT LOWER('SQL Tutorial is FUN!');
+output-> sql tutorial is fun!
+W3schools link-> https://www.w3schools.com/sql/func_sqlserver_lower.asp
+
+UPPER()-> the upper function do the all text or string in upper case character.
+ex->  SELECT LOWER('SQL Tutorial is FUN!');
+output-> SQL TUTORIAL IS FUN!
+
+AS-> used to create temporary name of column or table for sql query.
+W3schools link-> https://www.w3schools.com/sql/sql_ref_as.asp
+

@@ -1,0 +1,17 @@
+*candidate key-> The minimal super keys are called candidate keys.there is no 
+                 repetation of attribute(column) is allowed.
+
+#Example of candidate keys-> {ID}
+                             {SSN}
+                             {Name,Phone}
+                             {Email}
+(note-> we choosen candidate keys form super keys, that is no repeated column)
+
+
+
+
+
+
+
+
+

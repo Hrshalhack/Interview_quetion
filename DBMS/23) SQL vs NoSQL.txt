@@ -1,0 +1,19 @@
+#when use SQL->
+
+*if your data is primarily sturctured,a SQL db is the right choice.
+*SQL db is the best suited for transaction-oriented system such as customer
+ relationship management tools,accounting software and e-commerce platforms.
+*if your data is very structured and ACID is must, the SQL is great choice.
+
+#when use NoSQL-> 
+
+*if your data requirements aren't clear or if your data is unstructured.
+ NoSQL may be your best choice.
+*in NoSQL db you do not need a predefined schema like you do for a SQL db.
+*A NoSQL db is much better fir to store data like article content,social media
+post, sesor data.
+*NoSQL db are more scalable and flexible.
+
+
+
+  

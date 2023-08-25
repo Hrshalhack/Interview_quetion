@@ -1,0 +1,1 @@
+a primary is a unique or not null in our table.

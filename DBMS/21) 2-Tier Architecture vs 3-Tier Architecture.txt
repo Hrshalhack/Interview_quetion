@@ -1,0 +1,16 @@
+2-Tier Architecture -> it is less secure.because user can also access the info
+  of hole db.(ex.we have gov website and we access our familily info. but we also
+  access the others family info,so its less secure)
+3-Tier Architecture-> there is application server for db. it is more secure.
+(ex. the application server verify that you only access your family info not
+ others family info)
+
+   2 tier is faster as compared to 3 tier.
+
+
+      | Database system |  - server
+             |
+             |
+       | Application|
+             |             -client
+          | User|

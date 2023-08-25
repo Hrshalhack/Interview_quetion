@@ -1,0 +1,14 @@
+foregn key-> all keys deals with one table but foregn key deals with two tables.
+foregn key is used to connect two tables.it maintains refrential integrity.
+(foregn key reference leti h primary key se)
+
+refrence table->jis table me pk exist krti h uuse refrence table or bese table khenge.(parent table)
+referencing table->jis table me foregn key(fk) exist krti h uuse referencing table khenge.(ye reference(data) leta h,base table me data change hone ke bad hi isme change hota h)(child table)
+
+(note->ek table me ek se jyada fk ho skti he mgr pk hmesha ek hi rhegi)
+
+(imp)refrential integrity->when we perform any operation(insert,delete,update)
+                           in refrence table(base table) so it continuesly 
+                           performed on referencing table.
+
+
